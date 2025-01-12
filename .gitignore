@@ -1,0 +1,14 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore data folder containing generated files
+/data/
+
+# Ignore IDE configuration files (e.g., for PyCharm or VSCode)
+.idea/
+.vscode/
