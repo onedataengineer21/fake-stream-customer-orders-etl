@@ -1,0 +1,33 @@
+-- Insert 30 additional products
+INSERT INTO products (product_id, product_name, product_price) 
+VALUES 
+('e3ad1d5b-b1fe-42c7-9502-5cdd3f57339e', 'Gaming Laptop', 1299.99),
+('9a713fe4-8a13-42b7-8bfb-9984a3e8a67e', 'Wireless Earbuds', 99.99),
+('db5d68c7-4179-4b6e-9318-49a25f8e9c79', 'Bluetooth Speaker', 59.99),
+('1fd25de8-2fa7-4f9b-8c92-3ad1efb51fd1', '4K Television', 799.99),
+('d4d16ff3-df32-4d76-8a7b-9ab9f42e72da', 'Portable Power Bank', 19.99),
+('f8e59ac5-4c06-4c7a-9d5b-fc32ad9817a1', 'VR Headset', 299.99),
+('7f3c8fa8-c650-4d4e-9358-bf3fe63230bb', 'Laptop Stand', 45.99),
+('5572c393-41ab-4c6e-9b0f-f1c8a3e7db61', 'Webcam', 129.99),
+('3fe9f545-fcd1-411a-92d1-5a7848e7c579', 'Smart Home Assistant', 99.99),
+('773f7c47-963e-4857-9f3b-dc8819b08756', 'Desktop PC', 999.99),
+('8a9b0f98-d1b2-4cf3-b863-d220e9c26e65', 'Gaming Mouse', 49.99),
+('476df245-758a-44d2-b346-f0d2a771e4d4', 'Mechanical Keyboard', 89.99),
+('b17a6d01-0046-49ba-ae61-b61efbb9f3b5', 'Digital Camera', 499.99),
+('4e3d5e42-8832-42b7-b8e1-c5ffb2d7dca8', 'Electric Toothbrush', 89.99),
+('76477a72-b50d-4295-9d9f-91d938e1c759', 'Laptop Charger', 39.99),
+('89e9b450-5d2d-4282-bfa3-419ad44fe705', 'Smartphone Case', 19.99),
+('6e545cf9-e45b-44d9-bb71-c4327b9a5b59', 'Game Controller', 59.99),
+('9e960e6e-2c83-4da5-b2d4-d063ebd084a3', 'Fitness Tracker', 129.99),
+('49bb139f-0436-488f-b62c-d6e6b5ff6f33', 'Smartphone Charger', 15.99),
+('dc864d11-3c45-475b-9db2-1b32d937daef', 'Soundbar', 199.99),
+('a926dbd9-b106-4f12-bb33-e3c80ad3bc62', 'Tablet', 399.99),
+('31c58545-d2fb-4651-b170-b52a29c01a9e', 'Bluetooth Mouse', 29.99),
+('ee67c640-caa0-46de-bf5e-e159fdcfc22c', 'Action Camera', 219.99),
+('5f0e601e-682b-4a71-b1b5-90c78b7da40d', 'Projector', 599.99),
+('cbfd22d6-f49c-4938-801d-1577c7f03fe3', 'E-book Reader', 129.99),
+('b47879c8-f3da-44b7-8e63-ff385b44a95f', 'Smartphone Screen Protector', 12.99),
+('7e13cbe1-fb6f-4a53-97ea-78e8995ccf3b', 'Smartphone Mount', 22.99),
+('3f99345d-c32b-4e3e-bbc7-3907f9c35c74', 'External SSD', 149.99),
+('be2676fc-4b3c-41c3-9f47-b406fe4e488a', 'Fitness Smartwatch', 149
+)
